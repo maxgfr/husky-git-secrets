@@ -1,12 +1,12 @@
-# boilerplate-typescript-node
+# husky-git-secrets
 
 A simple node boilerplate made in typescript
 
 ## Clone repository and install dependencies
 
 ```sh
-git clone https://github.com/maxgfr/boilerplate-typescript-node # For cloning the repository
-cd boilerplate-typescript-node # To navigate to the repository root
+git clone https://github.com/maxgfr/husky-git-secrets# For cloning the repository
+cd husky-git-secrets # To navigate to the repository root
 yarn # Install dependencies
 cp .env.example .env
 ```

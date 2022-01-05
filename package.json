@@ -1,5 +1,5 @@
 {
-  "name": "boilerplate-typescript-node",
+  "name": "husky-git-secrets",
   "version": "0.0.0",
   "description": "A simple boilerplate written in typescript",
   "devDependencies": {
